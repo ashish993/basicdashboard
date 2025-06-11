@@ -165,6 +165,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # Auto refresh every 3 seconds
-    time.sleep(3)
-    st.rerun()
+   
